@@ -1,0 +1,19 @@
+{
+  "name": "combine-media-queries",
+  "version": "1.0.0",
+  "description": "Combine Media Queries",
+  "main": "app.js",
+  "scripts": {
+    "postinstall": "grunt cmq",
+    "start": "grunt cmq"
+  },
+  "author": "Paul Seal",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt-combine-media-queries": "^1.0.20"
+  },
+  "dependencies": {
+    "grunt": "1.0.1",
+    "grunt-cli": "1.2.0"
+  }
+}
