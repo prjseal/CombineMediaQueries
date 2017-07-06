@@ -1,5 +1,3 @@
-CombineMediaQueries
-
 ## Combine Media Queries ##
 
 Let's say you have a css file which is the result of some sass, and you don't want to use sass anymore, you just want to edit the css. Well you end up with loads of media queries throughout the css file. This project uses another project to group those media queries for you.
