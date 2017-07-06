@@ -6,4 +6,4 @@ This project implements a grunt task which you can find [here](https://github.co
 
 With this implementation you can just put a css file in the **source** folder, run the task `grunt cmq` and it will generate a file in the **destination** folder with all of the media queries grouped together.
 
-Just download the project, run `npm install` and then run `grunt cmq`
+Just download the project, run `npm install` and then run `grunt cmq` or you can just double click on **run.bat** and it will run the command for you.
